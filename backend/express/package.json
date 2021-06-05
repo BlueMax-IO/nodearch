@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bluemax-io/nodearch.git"
+    "url": "git+https://github.com/ahmedali7o1/nodearch.git"
   },
   "keywords": [
     "nodearch",
     "nodearch-express"
   ],
-  "author": "https://github.com/AhmedAli7O1",
+  "author": "https://github.com/ahmedali7o1",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bluemax-io/nodearch/issues",
+    "url": "https://github.com/ahmedali7o1/nodearch/issues",
     "email": "bluemax7o1@gmail.com"
   },
   "devDependencies": {
