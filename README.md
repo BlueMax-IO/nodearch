@@ -9,7 +9,7 @@
   <a href="https://www.npmjs.com/package/@nodearch/core" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/@nodearch/core.svg?label=Version" />
   </a>
-  <a href="https://github.com/BlueMax-IO/nodearch/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/ahmedali7o1/nodearch/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://https://www.npmjs.com/package/@nodearch/core" target="_blank">
@@ -24,7 +24,7 @@
   <a href="https://img.shields.io/github/workflow/status/bluemax-io/nodearch/Deploy/master" target="_blank">
     <img alt="Build Status" src="https://img.shields.io/github/workflow/status/bluemax-io/nodearch/Deploy/master?label=Build" />
   </a>
-  <a href="https://github.com/bluemax-io/nodearch/stargazers" target="_blank">
+  <a href="https://github.com/ahmedali7o1/nodearch/stargazers" target="_blank">
     <img alt="Star on GitHub" src="https://img.shields.io/github/stars/bluemax-io/nodearch?style=social" />
   </a>
 </p>
@@ -102,7 +102,7 @@ Contributions, issues and feature requests are welcome! If you like the idea and
 ### Setup
 Clone the project on your local machine, using the following command.
 ```bash
-git clone https://github.com/BlueMax-IO/nodearch.git
+git clone https://github.com/ahmedali7o1/nodearch.git
 ```
 
 Switch to the repo directory, and then install dependencies
@@ -134,12 +134,12 @@ For more details on how to use Rush to add packages, commands, build and run stu
 
 Give a ⭐️ if this project helped you! 
 
-[![Star on GitHub](https://img.shields.io/github/stars/bluemax-io/nodearch?style=social)](https://github.com/bluemax-io/nodearch/stargazers)
+[![Star on GitHub](https://img.shields.io/github/stars/bluemax-io/nodearch?style=social)](https://github.com/ahmedali7o1/nodearch/stargazers)
 
 ## 📝 License
 
-Copyright © 2020 [BlueMax IO](https://github.com/BlueMax-IO).<br />
-This project is [MIT](https://github.com/BlueMax-IO/nodearch/blob/master/LICENSE) licensed.
+Copyright © 2020 [BlueMax IO](https://github.com/ahmedali7o1).<br />
+This project is [MIT](https://github.com/ahmedali7o1/nodearch/blob/master/LICENSE) licensed.
 
 ***
 

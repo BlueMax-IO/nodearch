@@ -20,7 +20,7 @@ Backend Node.js framework
 npm i -g rush
 
 # clone the project locally if you didn't already
-git clone https://github.com/BlueMax-IO/nodearch
+git clone https://github.com/ahmedali7o1/nodearch
 
 # switch to the cloned directory
 cd nodearch
